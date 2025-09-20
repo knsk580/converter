@@ -14,7 +14,7 @@ AIチャットでは、OpenAI APIのResponsesを使い、toolとしてfile_searc
 1. ページURL抽出：サイト上でのURLが含まれているので、抽出する
 2. 共通ノイズ除去：scriptやstyleなど不要な部分を削除する
 3. 個別ノイズ除去：noise_pattern.txtを参照して指定されたノイズパターンを削除する
-4. マークダウン化：マークダウン形式にする
+4. Markdown化：Markdown形式にする
 5. JSON化：見出しをメタデータとして追加しながらJSON化する
 
 ### 各処理で使ってほしいツールや提案
