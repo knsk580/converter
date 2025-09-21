@@ -1,0 +1,11 @@
+# ノイズパターン（正規表現）
+# 広告ブロック
+<div class="advertisement">.*?</div>
+# フッター
+<footer.*?>.*?</footer>
+# ナビゲーション
+<nav.*?>.*?</nav>
+# スクリプトタグ（共通除去で処理されるが、念のため）
+<script.*?>.*?</script>
+# スタイルタグ
+<style.*?>.*?</style>

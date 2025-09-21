@@ -1,0 +1,204 @@
+[
+    {
+        "id": "sample_manual_0",
+        "content": "# 業務システム操作マニュアル",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 0,
+            "Header 1": "業務システム操作マニュアル"
+        }
+    },
+    {
+        "id": "sample_manual_1",
+        "content": "## 1. システム概要\n\n本システムは、日常業務を効率化するための統合業務システムです。以下の機能を提供しています。\n\n- 売上管理\n- 在庫管理\n- 顧客管理\n- レポート生成",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 1,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "1. システム概要"
+        }
+    },
+    {
+        "id": "sample_manual_2",
+        "content": "## 2. ログイン方法\n\nシステムにアクセスするには、以下の手順でログインしてください。\n\n1. ブラウザでシステムURLにアクセス\n2. ユーザーIDとパスワードを入力\n3. 「ログイン」ボタンをクリック",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 2,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "2. ログイン方法"
+        }
+    },
+    {
+        "id": "sample_manual_3",
+        "content": "### 2.1 パスワードを忘れた場合\n\nパスワードを忘れた場合は、ログイン画面の「パスワードを忘れた方」リンクをクリックしてください。",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 3,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "2. ログイン方法",
+            "Header 3": "2.1 パスワードを忘れた場合"
+        }
+    },
+    {
+        "id": "sample_manual_4",
+        "content": "## 3. 売上管理\n\n売上データの入力と管理を行います。",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 4,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "3. 売上管理"
+        }
+    },
+    {
+        "id": "sample_manual_5",
+        "content": "### 3.1 売上データの入力\n\n新規売上データを入力する手順：\n\n1. メニューから「売上管理」を選択\n2. 「新規登録」ボタンをクリック\n3. 必要な情報を入力\n4. 「保存」ボタンをクリック",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 5,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "3. 売上管理",
+            "Header 3": "3.1 売上データの入力"
+        }
+    },
+    {
+        "id": "sample_manual_6",
+        "content": "### 3.2 売上データの検索\n\n既存の売上データを検索できます。日付範囲、顧客名、商品名での絞り込みが可能です。",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 6,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "3. 売上管理",
+            "Header 3": "3.2 売上データの検索"
+        }
+    },
+    {
+        "id": "sample_manual_7",
+        "content": "## 4. よくある質問",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 7,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "4. よくある質問"
+        }
+    },
+    {
+        "id": "sample_manual_8",
+        "content": "### Q1: ログインできません\n\nA1: ユーザーIDとパスワードが正しいか確認してください。Caps Lockの状態も確認してください。",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 8,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "4. よくある質問",
+            "Header 3": "Q1: ログインできません"
+        }
+    },
+    {
+        "id": "sample_manual_9",
+        "content": "### Q2: データが保存されません\n\nA2: 必須項目がすべて入力されているか確認してください。また、ネットワーク接続も確認してください。",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 9,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "4. よくある質問",
+            "Header 3": "Q2: データが保存されません"
+        }
+    },
+    {
+        "id": "sample_manual_10",
+        "content": "### Q3: レポートが表示されません\n\nA3: 権限の問題の可能性があります。システム管理者にお問い合わせください。",
+        "metadata": {
+            "source": "sample_manual",
+            "url": "https://company.example.com/manual/system-guide",
+            "section_id": 10,
+            "Header 1": "業務システム操作マニュアル",
+            "Header 2": "4. よくある質問",
+            "Header 3": "Q3: レポートが表示されません"
+        }
+    },
+    {
+        "id": "sample_faq_0",
+        "content": "# よくある質問（FAQ）",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 0,
+            "Header 1": "よくある質問（FAQ）"
+        }
+    },
+    {
+        "id": "sample_faq_1",
+        "content": "## ログイン・認証について",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 1,
+            "Header 1": "よくある質問（FAQ）",
+            "Header 2": "ログイン・認証について"
+        }
+    },
+    {
+        "id": "sample_faq_2",
+        "content": "Q: ログインパスワードを忘れました\n\nA: 以下の手順でパスワードをリセットできます：\n\n1. ログイン画面の「パスワードを忘れた方」をクリック\n2. 登録済みのメールアドレスを入力\n3. 送信されたメールのリンクをクリック\n4. 新しいパスワードを設定",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 2,
+            "Header 1": "よくある質問（FAQ）",
+            "Header 2": "ログイン・認証について"
+        }
+    },
+    {
+        "id": "sample_faq_3",
+        "content": "Q: アカウントがロックされました\n\nA: 複数回ログインに失敗するとアカウントがロックされます。30分後に自動解除されますが、急ぎの場合は管理者にお問い合わせください。",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 3,
+            "Header 1": "よくある質問（FAQ）",
+            "Header 2": "ログイン・認証について"
+        }
+    },
+    {
+        "id": "sample_faq_4",
+        "content": "## データ入力について",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 4,
+            "Header 1": "よくある質問（FAQ）",
+            "Header 2": "データ入力について"
+        }
+    },
+    {
+        "id": "sample_faq_5",
+        "content": "Q: 入力したデータが消えてしまいます\n\nA: 以下の原因が考えられます：\n\n- セッションタイムアウト（1時間でタイムアウト）\n- ブラウザの戻るボタンを使用\n- 重複タブでの操作\n\n定期的に保存することをお勧めします。",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 5,
+            "Header 1": "よくある質問（FAQ）",
+            "Header 2": "データ入力について"
+        }
+    },
+    {
+        "id": "sample_faq_6",
+        "content": "Q: ファイルアップロードができません\n\nA: 以下を確認してください：\n\n- ファイルサイズ：最大10MB\n- 対応形式：PDF、Word、Excel、画像ファイル\n- ファイル名：日本語・特殊文字は避ける",
+        "metadata": {
+            "source": "sample_faq",
+            "url": "https://company.example.com/faq/general",
+            "section_id": 6,
+            "Header 1": "よくある質問（FAQ）",
+            "Header 2": "データ入力について"
+        }
+    }
+]
